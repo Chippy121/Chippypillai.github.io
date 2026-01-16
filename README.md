@@ -1,11 +1,6 @@
 # 👩‍💼 Chippy Chandra Pillai  
-**Strategic Project Management Student | Former Software QA Specialist**
+**Strategic Project Management Student |Software QA Specialist**
 
-📍 Vaasa, Finland  
-📧 chippychandrapillai@gmail.com  
-📞 +358 44 929 6428  
-
----
 
 ## 👋 About Me
 
