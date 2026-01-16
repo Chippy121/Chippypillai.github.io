@@ -1,12 +1,13 @@
 # 👩‍💼 Chippy Chandra Pillai  
 **Strategic Project Management Student |Software QA Specialist**
 
+---
 
 ## 👋 About Me
 
-I am a Strategic Project Management master’s student with 9+ years of professional experience in Software Quality Assurance, test automation, and Agile delivery. My background bridges **requirements, testing, and product delivery**, enabling me to support organizations in turning complex business needs into dependable, high-quality releases.
+I am a Strategic Project Management master’s student with 10+ years of professional experience in Software Quality Assurance, test automation, and Agile delivery. My background bridges **requirements, testing, and product delivery**, enabling me to support organizations in turning complex business needs into dependable, high-quality releases.
 
-I bring a strong quality mindset combined with leadership experience, hands-on automation skills, and a growing focus on **AI-powered testing and strategic project management**.
+I bring a strong quality mindset combined with leadership experience, hands-on automation skills, and a growing focus on **AI-powered testing and strategically develop Project**.
 
 ---
 
@@ -22,8 +23,6 @@ Key areas:
 - Agile Practices & Applied Machine Learning  
 - Robotic Process Automation  
 
-**Thesis:**  
-*Bridging the QA Gap: A Lean Project Management Framework for Migrating to AI-Powered Testing*
 
 ---
 
