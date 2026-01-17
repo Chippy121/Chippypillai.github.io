@@ -126,30 +126,5 @@ Core subjects:
 
 ---
 
-## 🌍 Languages
-
-- English  
-- Hindi  
-- Malayalam  
-- Finnish  
-
----
-
-## 🤝 Volunteering & Events
-
-- Demola Bootcamp  
-- DEI4SME Hackathon  
-- Silta Brone Volunteer  
-- Vaasa International Program  
-
----
-
-## 📞 References
-
-**Marko Mäkilouko**  
-Head of Strategic Project Management  
-University of Vaasa  
-📧 marko.makilouko@uwasa.fi  
-📞 +358 29 449 8328  
 
 --
